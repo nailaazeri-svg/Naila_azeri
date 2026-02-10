@@ -4,7 +4,7 @@ Junior Web Developer (in progress) with a strong background in education.
 Currently working as a Mathematics, Science and English teacher while actively transitioning into software development.
 I am passionate about learning and teaching, and I continuously improve my technical skills to keep up with the evolving world of technology.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 👩‍🏫 Professional Background
 I have over 10 years of experience working as a teacher, integrating digital tools and basic programming concepts into my lessons.
@@ -19,7 +19,7 @@ Through this experience, I have developed strong skills in:
 - Using technology to support learning and problem-solving  
 - Guiding learners from basic concepts to advanced understanding
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### 🌍 Languages
 - Azerbaijani – Native  
 - Turkish – Fluent  
@@ -28,7 +28,7 @@ Through this experience, I have developed strong skills in:
 - Swedish – Fluent  
 - Norwegian – Basic
   
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠 Skills & Technologies
 - HTML5, CSS3  
